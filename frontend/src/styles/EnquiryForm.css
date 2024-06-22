@@ -1,0 +1,128 @@
+.enquiry-form {
+    max-width: 600px;
+    margin: 50px auto;
+    padding: 20px;
+    border-radius: 8px;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+.form-group {
+    margin-bottom: 15px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    width: 100%;
+
+}
+
+.form-group > div {
+    width: 32%;
+    margin-bottom: 15px;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+    color: #333;
+    text-align: left;
+    width: 100%;
+}
+
+.form-controls{
+    width: 100%;
+    padding: 10px;
+    border: 2px solid #000;
+    border-radius: 0;
+    box-sizing: border-box;
+    font-family: 'Comic Sans MS', cursive, sans-serif;
+    transition: border-color 0.3s;
+    outline: none;
+    height: 47px;
+}
+
+.form-controls:focus {
+    border-color: #007bff;
+    outline: none;
+}
+
+.form-controls.is-invalid {
+    border-color: #dc3545;
+}
+
+.form-control {
+    width: 100%;
+    padding: 10px;
+    border: 2px solid #000;
+    border-radius: 0;
+    box-sizing: border-box;
+    font-family: 'Comic Sans MS', cursive, sans-serif;
+    transition: border-color 0.3s;
+    outline: none;
+}
+
+.form-control:focus {
+    border-color: #007bff;
+    outline: none;
+}
+
+.form-control.is-invalid {
+    border-color: #dc3545;
+}
+
+.error-message {
+    color: #dc3545;
+    font-size: 0.875em;
+    margin-top: 5px;
+}
+
+.submit-button {
+    width: 100%;
+    padding: 10px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 0;
+    cursor: pointer;
+    font-size: 1em;
+    font-family: 'Comic Sans MS', cursive, sans-serif;
+    transition: background-color 0.3s;
+    margin-top: 10px;
+}
+
+.submit-button:hover {
+    background-color: #0056b4;
+}
+
+@media (max-width: 768px) {
+    .enquiry-form {
+        padding: 15px;
+    }
+
+    .form-group > div {
+        width: 48%;
+    }
+
+    .submit-button {
+        padding: 8px;
+    }
+}
+
+@media (max-width: 480px) {
+    .enquiry-form {
+        padding: 10px;
+    }
+
+    .form-group > div {
+        width: 100%;
+    }
+
+    .form-control {
+        padding: 6px;
+    }
+
+    .submit-button {
+        padding: 6px;
+    }
+}

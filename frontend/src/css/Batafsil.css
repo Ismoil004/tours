@@ -1,0 +1,334 @@
+.all-2 {
+    width: 1440px;
+
+    margin: 0 auto;
+}
+.what{
+    width: 35px;
+    height: 35px;
+}
+.teleg{
+    width: 30px;
+    height: 30px;
+}
+.face{
+    width: 30px;
+    height: 30px;
+}
+.chiziq {
+    height: 1px;
+    background-color: #FF715B;
+    margin: 10px 0;
+}
+.ins{
+    width: 30px;
+    height: 30px;
+}
+.header-batafsil {
+    width: 1440px;
+    height: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 24px auto;
+}
+
+.header-img {
+    width: 104.89px;
+    height: 40.16px;
+    margin-left: 31px;
+}
+
+.nav-links {
+    display: flex;
+    align-items: center;
+}
+
+.group-tours,
+.about,
+.contact {
+    margin-left: 20px;
+    cursor: pointer;
+    color: rgb(44, 44, 44);
+}
+
+.icons {
+    display: flex;
+    align-items: center;
+    margin-left: 20px;
+}
+
+.icons div {
+    margin-left: 10px;
+}
+
+.tour {
+    margin-top: 40px;
+    font-weight: bold;
+    font-size: 48px;
+    text-align: center;
+}
+
+.body {
+    width: 1346.81px;
+}
+
+.sayohat {
+    font-size: 18px;
+    margin-left: 0px;
+}
+
+.desc {
+    color: rgb(255, 113, 91);
+    margin-left: 600px;
+    margin-top: -40px;
+}
+.header-imgs{
+    display: flex;
+    gap: 18px;
+    margin-left: 34px;
+}
+.day{
+    text-align: center;
+    margin-left: 539px;
+    margin-top: -40px;
+}
+.price {
+    text-align: center;
+    margin-left: 829px;
+    margin-top: -40px;
+    color: rgb(255, 113, 91);
+}
+
+.order-batafsil {
+    width: 167.33px;
+    height: 50.2px;
+    background: rgb(255, 113, 91);
+    color: white;
+    border-radius: 20px;
+    margin-left: 1226px;
+    margin-top: -220px;
+    border: 1px solid  rgb(255, 113, 91);
+    cursor: pointer;
+    position: relative;
+    top: -40px;
+}
+.groups{
+    display: flex;
+    gap: 30px;
+    margin-top: 50px;
+}
+.video{
+    width: 659.9px;
+    height: 358px;
+
+}
+.image-batafsil {
+    width: 659.9px;
+    height: 358px;
+}
+.black{
+    width: 34px;
+    height: 34px;
+    margin-left: 52px;
+}
+.eng{
+    margin-left: 13px;
+    font-weight: bold;
+    margin-top: 15px;
+ }
+.tel{
+    width: 25px;
+    height: 25px;
+    margin-left: 23px;
+}
+.number{
+    margin-left: 17px;
+    margin-top: 10px;
+
+}
+.batafsil-item {
+    display: flex;
+    align-items: center;
+    margin: 20px auto;
+    padding: 20px;
+    border-radius: 10px;
+    width: calc(100% - 40px);
+}
+
+.image-batafsil2 {
+    width: 417px;
+    height: 305px;
+    border-radius: 10px;
+    object-fit: cover;
+    margin-right: 20px;
+}
+.header-group{
+    display: flex;
+    gap: 70px;
+    margin-left: 330px;
+}
+
+.batafsil-details {
+    width: 600px;
+    height: 305.42px;
+    margin-left: 74px;
+}
+
+.batafsil-title {
+   color: #FF715B;
+    font-size: 18px;
+}
+
+.batafsil-subtitle {
+   margin-left: 78px;
+    font-size: 24px;
+    font-weight: bold;
+    margin-top: -45px;
+}
+
+.batafsil-description{
+    font-size: 24px;
+    font-weight: 600;
+    margin-top: 55px;
+}
+.rasmcha{
+    width: 25px;
+    height: 25.48px;
+    margin-top: 100px;
+}
+.batafsil-description2{
+    font-weight: 600;
+    margin-top: -30px;
+    margin-left: 35px;
+    font-size: 22px;
+}
+.batafsil-description2 {
+    font-style: italic;
+}
+
+.add {
+    font-size: 35px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 54px;
+}
+
+.lorem {
+    width: 1193.35px;
+    height: 123.96px;
+    margin: 55px;
+    font-weight:600;
+    font-size: 21px;
+}
+
+.comment-batafsil {
+    font-size: 35px;
+    font-weight: bold;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.footer-batafsil {
+    width: 100%;
+    margin-top: 20px;
+}
+
+.footer-container {
+    width: 1440px;
+    height: 210px;
+}
+.you{
+    color: rgb(167, 153, 151);
+    margin-top: 23px;
+    margin-left: 116px;
+
+}
+.footer-img{
+    width: 20px;
+    height: 20px;
+    margin-top: 61px;
+    margin-left: 117px;
+}
+.footer-img2{
+    width: 20px;
+    height: 20px;
+
+    margin-left: 117px;
+}
+.footer-img3{
+    width: 20px;
+    height: 20px;
+    margin-left: 117px;
+}
+.num2{
+    color: rgb(167, 153, 151);
+    margin-left: 160px;
+    margin-top: -20px;
+}
+.email{
+    color: rgb(167, 153, 151);
+    margin-left: 160px;
+    margin-top: -20px;
+}
+.www{
+    color: rgb(167, 153, 151);
+    margin-left: 160px;
+    margin-top: -20px;
+}
+.footer-group{
+    margin-left: 548px;
+    margin-top: -210px;
+    color: rgb(167, 153, 151);
+}
+.footer-group2{
+    margin-left: 548px;
+    margin-top: 24px;
+    color: rgb(167, 153, 151);
+}
+.footer-group3{
+    margin-left: 548px;
+    margin-top: 24px;
+    color: rgb(255, 113, 91);
+}
+.footer-group4{
+    margin-left: 548px;
+    margin-top: 24px;
+    color: rgb(167, 153, 151);
+}
+.support{
+    margin-left: 867px;
+    margin-top: -159px;
+    font-size: 28px;
+    font-weight: bold;
+}
+.teleg-3{
+    margin-top: 27px;
+    margin-left: 866px;
+    width: 30px;
+    height: 30px;
+}
+.what-3{
+    margin-top: 6px;
+    margin-left: 866px;
+    width: 30px;
+    height: 30px;
+}
+.teleg-comment{
+    color: rgb(23, 120, 242);
+    margin-left: 911px;
+    margin-top: -64px;
+}
+.num3{
+    margin-left: 911px;
+    margin-top: 0px;
+}
+
+.img-icon{
+    display: flex;
+    width: 30px;
+    height: 30px;
+    gap: 27px;
+    margin-top: 118px;
+    margin-left: 1155px;
+}

@@ -1,0 +1,365 @@
+.navbar {
+    width: 1400px;
+    display: flex;
+    gap: 70px;
+    margin-left: 20px;
+    margin-top: -20px;
+}
+
+.container{
+    margin: 0 auto  ;
+}
+
+.navbar2 {
+    margin-left: 150px;
+    margin-top: 7px;
+    display: flex;
+    gap: 30px;
+}
+
+.img1 {
+    width: 100px;
+    height: 100px;
+}
+
+.img2 {
+    width: 30px;
+    height: 30px;
+}
+
+.img3 {
+    width: 30px;
+    height: 30px;
+}
+
+.img4 {
+    width: 30px;
+    height: 30px;
+}
+
+.img5 {
+    width: 50px;
+    height: 50px;
+    margin-top: -15px;
+}
+
+.img6 {
+    margin-left: 15px;
+    width: 30px;
+    height: 30px;
+    margin-top: -2px;
+}
+
+.img7 {
+    width: 1390px;
+    height: 550px;
+    margin-left: -310px;
+    margin-top: -450px;
+    opacity: 0.1;
+    border-radius: 20px;
+}
+
+.img8 {
+    margin-right: 15px;
+    width: 30px;
+    height: 30px;
+}
+
+.img9{
+    margin-left: 700px;
+    margin-top: 20px;
+    border-radius: 5px;
+}
+
+.img10, .img11, .img12{
+    display: block;
+    width: 60px;
+    height: 60px;
+}
+
+.p {
+    margin-top: 20px;
+    color: #2ba2bf;
+    font-size: 19px;
+    cursor: pointer;
+}
+
+.p2{
+    margin-top: 40px;
+    color: #2ba2bf;
+    font-size: 20px;
+    margin-left: 710px;
+}
+
+.p3{
+    margin-top: 200px;
+    color: #2ba2bf;
+    font-size: 20px;
+    margin-left: 720px;
+}
+
+.p4{
+    margin-top: 150px;
+    color: #2ba2bf;
+    font-size: 20px;
+    margin-left: 720px;
+}
+
+.p5{
+    margin-top: 50px;
+    color: #2ba2bf;
+    font-size: 20px;
+    margin-left: 650px;
+}
+
+h5 {
+    margin-left: -25px;
+    margin-top: -1px;
+}
+
+.tour-right {
+    padding: 27px;
+    border-left: 1px solid grey;
+}
+
+.tour-list {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    margin-left: 40px;
+    margin-right: 50px;
+    margin-top: 20px;
+}
+
+.tour-item {
+    display: flex;
+    border: 1px solid #ccc;
+    padding: 15px;
+    align-items: center;
+    width: 1390px;
+}
+
+.tour-img {
+    width: 250px;
+    height: 200px;
+    margin-right: 20px;
+}
+
+.tour-details {
+    margin-left: 50px;
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+}
+
+.tour-details p {
+    margin-top: 5px;
+}
+
+.tour-footer {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    margin-top: auto;
+}
+
+.tour-price {
+    font-size: 1.5em;
+    font-weight: bold;
+    margin-right: 20px;
+}
+
+.tour-buttons {
+    display: flex;
+    gap: 10px;
+}
+
+.details-btn, .order-btn {
+    padding: 5px 10px;
+    border: none;
+    cursor: pointer;
+}
+
+.details-btn {
+    background-color: #007BFF;
+    color: white;
+}
+
+.order-btn {
+    background-color: #28A745;
+    color: white;
+}
+
+.text1 {
+    margin-left: 20px;
+    margin-top: 20px;
+    color: white;
+    font-size: 70px;
+}
+
+.text2 {
+    margin-left: 10px;
+    color: white;
+    font-size: 150px;
+    margin-top: -25px;
+}
+
+.text3, .text4, .text5 {
+    font-size: 17px;
+    color: #ffffff;
+    font-weight: bold;
+}
+
+.text3 {
+    margin-left: 20px;
+}
+
+.text4 {
+    margin-left: 20px;
+}
+
+.text5 {
+    margin-left: 20px;
+}
+
+.text6, .text7, .text8, .text9{
+    margin-left: 50px;
+    font-size: 17px;
+}
+
+.text6{
+    margin-top: 40px ;
+}
+
+.text10, .text11, .text12{
+    font-weight: bold;
+    font-size: 30px;
+    margin-left: 15px;
+}
+
+.div1 {
+    background-image: url("src/files/nature-water-sea-travel-wallpaper-preview.jpg");
+    background-repeat: no-repeat;
+    background-size: cover; /* or use 'contain' based on your requirement */
+    width: 1390px;
+    height: 700px;
+    margin-left: 40px;
+    padding-top: 120px;
+}
+
+.h4{
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: -350px;
+    margin-left: 50px;
+}
+
+.div2{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-top: -270px;
+    margin-left: 70px;
+}
+
+.div3{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-left: 70px;
+    margin-top: 40px;
+
+}
+
+.div4{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-left: 70px;
+    margin-top: 40px;
+
+}
+
+/* Responsive Styles */
+@media (max-width: 1200px) {
+    .navbar {
+        flex-direction: column;
+        align-items: center;
+        gap: 10px;
+    }
+
+    .navbar2 {
+        margin-left: 0;
+    }
+
+    .p2, .p3, .p4, .p5 {
+        margin-left: 0;
+        text-align: center;
+    }
+
+    .img7 {
+        max-width: 100%;
+        height: auto;
+    }
+}
+
+@media (max-width: 768px) {
+    .tour-list {
+        width: 1300px;
+    }
+
+    .tour-item {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .tour-img {
+        width: 100%;
+        height: auto;
+    }
+
+    .tour-details {
+        margin-left: 0;
+    }
+
+    .tour-footer {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+}
+
+@media (max-width: 320px) {
+    .text1 {
+        font-size: 50px;
+    }
+
+    .text2 {
+        font-size: 100px;
+    }
+}
+
+
+.Modal {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    right: auto;
+    bottom: auto;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    max-width: 400px;
+    width: 100%;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+}
+
+.Overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.75);
+}
